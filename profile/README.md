@@ -8,3 +8,4 @@ Source code repositories:
 *   Symtegration library: [symtegration](https://github.com/symtegration/symtegration)
 *   Extension for IHaskell: [ihaskell](https://github.com/symtegration/ihaskell)
 *   Web site generation: [site](https://github.com/symtegration/site)
+*   Organizational : [.github](https://github.com/symtegration/.github)
